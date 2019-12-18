@@ -1,6 +1,6 @@
-#MVP ÖRNEĞİ
+# MVP ÖRNEĞİ
 
-##Design Pattern
+## Design Pattern
 Tasarım kalıpları, yazılım geliştiricilerin karşılaştıkları genel sorunların çözümüdür.
 
 ![MVP Yapısı](https://miro.medium.com/max/778/1*TuWeZzR14MmB-RBbjtZl-A.png)
