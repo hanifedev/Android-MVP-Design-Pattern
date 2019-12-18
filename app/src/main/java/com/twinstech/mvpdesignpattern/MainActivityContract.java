@@ -1,5 +1,7 @@
 package com.twinstech.mvpdesignpattern;
 
+//View ile Presenter'ın haberleşmesi interface üzerinden olur.
+
 public interface MainActivityContract {
 
     interface View{

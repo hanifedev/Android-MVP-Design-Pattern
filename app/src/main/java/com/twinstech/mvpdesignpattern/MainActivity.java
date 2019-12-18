@@ -7,6 +7,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import com.twinstech.mvpdesignpattern.util.DateCalculationManager;
 
+//MainActivityContract.View interface'i implement edilir. Presenter'ın ihtiyacı olan model sınıfları burada
+//üretilerek Presenter'a verilir.
+//Ayrıca kullanıcı etkileşimleri için ilgili Presenter fonksiyonları çağrılarak Presenter uyarılır.
+
 public class MainActivity extends AppCompatActivity implements MainActivityContract.View {
 
     private TextView tvDate;
